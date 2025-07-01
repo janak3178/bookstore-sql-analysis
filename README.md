@@ -17,6 +17,8 @@ This project manages data for books, customers, and orders to help:
 2. **Load schema**:
    ```bash
    psql -U <USER> -d <DBNAME> -f schema.sql
+   psql -U <USER> -d <DBNAME> -f queries.sql
+
 
 
 

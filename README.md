@@ -1,4 +1,4 @@
-# bookstore-sql-analysis
+# Bookstore-SQL-Analysis
 **Analyze bookstore data—sales, inventory, and customer behavior—using SQL**
 
 ---

@@ -18,16 +18,6 @@ This project manages data for books, customers, and orders to help:
    ```bash
    psql -U <USER> -d <DBNAME> -f schema.sql
 
-or for MySQL:
-mysql -u <USER> -p <DBNAME> < schema.sql
-
-
-
-## Load Data
-psql -d <DBNAME> -f data.sql
-or:
-mysql -u <USER> -p <DBNAME> < data.sql
-
 
 
 
